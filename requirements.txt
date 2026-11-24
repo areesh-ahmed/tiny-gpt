@@ -1,0 +1,5 @@
+cat > requirements.txt << 'EOF'
+torch
+numpy
+matplotlib
+EOF

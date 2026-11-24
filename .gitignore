@@ -1,0 +1,9 @@
+checkpoints/
+cat >> .gitignore << 'EOF'
+
+checkpoints/
+*.pt
+*.pth
+.env
+.ipynb_checkpoints/
+EOF
